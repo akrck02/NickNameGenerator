@@ -33,4 +33,4 @@ and then run the program with the start.linux.sh file.
 
 # Thanks to 
 
--  @onyxrev for the nickname file 
+-  [@onyxrev](https://github.com/onyxrev) for the nickname file 
