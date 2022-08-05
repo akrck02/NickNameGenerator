@@ -40,6 +40,7 @@ def create():
         master = window, 
         text = Constant.BUTTON_TEXT, 
         image = button_icon, 
+        text_color= "#fff",
         command = partial(Generator.name, label), 
         compound = Constant.RIGHT_ALIGN
     )
